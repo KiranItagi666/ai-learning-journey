@@ -3,7 +3,7 @@
 ## Phase 0 – Repository Setup
 - [x] Create GitHub repository
 - [x] Create README
-- [ ] Create roadmap
+- [x] Create roadmap
 - [ ] Create progress tracker
 - [ ] Create learning journal
 - [ ] Enable GitHub Pages
